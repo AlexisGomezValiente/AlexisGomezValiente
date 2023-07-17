@@ -41,6 +41,8 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="REACT" align="left" width="80px">
   <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" alt="BOOT" align="left" width="80px">
   <img src="https://github.com/devicons/devicon/blob/master/icons/less/less-plain-wordmark.svg" alt="LESS" align="left" width="80px">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="GIT" align="left" width="80px">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" alt="GITHUB" align="left" width="80px">
 </div>
 
 <!--
