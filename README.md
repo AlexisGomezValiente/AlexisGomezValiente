@@ -33,17 +33,25 @@
 
 <hr>
 
-<div id="icons">
+<div id="icons" align="left">
   <h3>🛠️ Languages and Tools</h3>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML5" align="left" width="80px">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="CSS3" align="left" width="80px">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JS" align="left" width="80px">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="REACT" align="left" width="80px">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" alt="BOOT" align="left" width="80px">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/less/less-plain-wordmark.svg" alt="LESS" align="left" width="80px">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="GIT" align="left" width="80px">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" alt="GITHUB" align="left" width="80px">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML5" width="80px">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="CSS3" width="80px">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JS" width="80px">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="REACT" width="80px">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" alt="BOOT" width="80px">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/less/less-plain-wordmark.svg" alt="LESS" width="80px">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="GIT" width="80px">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" alt="GITHUB" width="80px">
 </div>
+
+---
+### :bar_chart: My stats:
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AlexisGomezValiente&theme=cobalt&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats) 
+
+![AlexisGomezValiente GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexisGomezValiente&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexisGomezValiente&hide_progress=true)
 
 <!--
 **AlexisGomezValiente/AlexisGomezValiente** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
