@@ -1,5 +1,6 @@
-<div align="center" border-radius="15px">
+<div align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200px">
+  <h1>Hi :wave:, I am Alexis Gomez</h1>
 </div>
 <!--
 **AlexisGomezValiente/AlexisGomezValiente** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
