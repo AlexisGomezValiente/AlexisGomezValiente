@@ -51,7 +51,7 @@
 
 ![AlexisGomezValiente GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexisGomezValiente&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexisGomezValiente&hide_progress=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8&theme=radical)
 
 <!--
 **AlexisGomezValiente/AlexisGomezValiente** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
