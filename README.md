@@ -11,12 +11,16 @@
 </div>
 
 <div id="badges" align="center">
+  <a id="badge-linkedin" target="_blank" href="linkedin.com/in/alexis-gomez-040a02236">
+    <img alt="Static Badge" src="https://img.shields.io/badge/in-blue?style=for-the-badge&logo=linkedin&logoColor=blue&label=Alexis%20Gomez">
+  </a>
+  
   <a id="badge-ig" target="_blank" href="https://www.instagram.com/alexisgomez_dev/">
     <img alt="Static Badge" src="https://img.shields.io/badge/IG-violet?style=for-the-badge&logo=Instagram&logoColor=violet&label=alexisgomez_dev">
   </a>
 
-  <a id="linkedin-ig" target="_blank" href="linkedin.com/in/alexis-gomez-040a02236">
-    <img alt="Static Badge" src="https://img.shields.io/badge/in-blue?style=for-the-badge&logo=linkedin&logoColor=blue&label=Alexis%20Gomez">
+  <a id="badge-wa" target="_blank" href="https://wa.link/7gz28a">
+    <img alt="Static Badge" src="https://img.shields.io/badge/WA-greenlight?style=for-the-badge&logo=whatsapp&logoColor=green-light&label=Alexis%20Gomez">
   </a>
 </div>
 <!--
