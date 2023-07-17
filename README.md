@@ -23,6 +23,26 @@
     <img alt="Static Badge" src="https://img.shields.io/badge/WA-greenlight?style=for-the-badge&logo=whatsapp&logoColor=green-light&label=Alexis%20Gomez">
   </a>
 </div>
+
+<hr>
+
+### 🧑🏽‍💻 About Me:
+- 🌱 I’m currently learning React and Redux
+- 💬 Ask me about JavaScript, POO, Webpack, HTML, CSS, and more.
+- 📫 How to reach me: wilaleva2019@gmail.com
+
+<hr>
+
+<div id="icons">
+  <h3>🛠️ Languages and Tools</h3>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML5" align="left" width="80px">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="CSS3" align="left" width="80px">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JS" align="left" width="80px">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="REACT" align="left" width="80px">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" alt="BOOT" align="left" width="80px">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/less/less-plain-wordmark.svg" alt="LESS" align="left" width="80px">
+</div>
+
 <!--
 **AlexisGomezValiente/AlexisGomezValiente** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
