@@ -11,7 +11,7 @@
 </div>
 
 <div id="badges" align="center">
-  <a id="badge-linkedin" target="_blank" href="linkedin.com/in/alexis-gomez-040a02236">
+  <a id="badge-linkedin" target="_blank" href="https://www.linkedin.com/in/alexis-gomez-040a02236/">
     <img alt="Static Badge" src="https://img.shields.io/badge/in-blue?style=for-the-badge&logo=linkedin&logoColor=blue&label=Alexis%20Gomez">
   </a>
   
