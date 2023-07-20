@@ -27,8 +27,8 @@
 <hr>
 
 ### 🧑🏽‍💻 About Me:
-- 🌱 I’m currently learning React and Redux
-- 💬 Ask me about JavaScript, POO, Webpack, HTML, CSS, and more.
+- 🌱 I’m currently learning Node.js
+- 💬 Ask me about React, JavaScript, POO, Webpack, HTML, CSS, and more.
 - 📫 How to reach me: wilaleva2019@gmail.com
 
 <hr>
