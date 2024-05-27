@@ -15,7 +15,7 @@
     <img alt="Static Badge" src="https://img.shields.io/badge/in-blue?style=for-the-badge&logo=linkedin&logoColor=blue&label=Alexis%20Gomez">
   </a>
   
-  <a id="badge-ig" target="_blank" href="https://www.instagram.com/alexisgomez_dev/">
+  <a id="badge-ig" target="_blank" href="https://www.instagram.com/alexisgomez.js/">
     <img alt="Static Badge" src="https://img.shields.io/badge/IG-violet?style=for-the-badge&logo=Instagram&logoColor=violet&label=alexisgomez_dev">
   </a>
 
