@@ -47,7 +47,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/less/less-plain-wordmark.svg" alt="LESS" width="80px">
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="GIT" width="80px">
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" alt="GITHUB" width="80px">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original.svg" alt="WP" width="80px">
 </div>
 
 ---
