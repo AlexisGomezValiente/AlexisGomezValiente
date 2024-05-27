@@ -39,7 +39,9 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="CSS3" width="80px">
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JS" width="80px">
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="REACT" width="80px">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" alt="BOOT" width="80px">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="REACT" width="80px">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" alt="NODEJS" width="80px">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" alt="EXPRESS" width="80px">
   <img src="https://github.com/devicons/devicon/blob/master/icons/less/less-plain-wordmark.svg" alt="LESS" width="80px">
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="GIT" width="80px">
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" alt="GITHUB" width="80px">
