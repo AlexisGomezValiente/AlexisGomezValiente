@@ -4,8 +4,8 @@
   <p>
     My name is Alexis Gomez, I'm 20 years old, and I'm from Paraguay. 
     <br>I am a Full Stack Developer, specialized in FrontEnd Dev. 
-    <br>Technologies: I work with include HTML, CSS, JavaScript, React, DOM with JS, Git, GitHub, OOP, Bootstrap, and LESS. 
-    <br>Currently: I'm furthering my skills in Node.js.
+    <br>Technologies: I work with include HTML, CSS, JavaScript, React, Express, PostgreSQL, MongoDB, DOM with JS, Git, GitHub, OOP, Bootstrap, and LESS. 
+    <br>Currently: I'm furthering my skills in JSONWebToknes.
     <br>I am a technology enthusiast who enjoys staying up-to-date with the technologies used in the present.
   </p>
 </div>
