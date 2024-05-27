@@ -3,7 +3,7 @@
   <h1>Hi :wave:, I am Alexis Gomez</h1>
   <p>
     My name is Alexis Gomez, I'm 20 years old, and I'm from Paraguay. 
-    <br>I am a Full Stack Developer, specialized in FrontEnd Dev. 
+    <br>I am a Full Stack Developer. 
     <br>Technologies: I work with include HTML, CSS, JavaScript, React, Express, PostgreSQL, MongoDB, DOM with JS, Git, GitHub, OOP, Bootstrap, and LESS. 
     <br>Currently: I'm furthering my skills in JSONWebToknes.
     <br>I am a technology enthusiast who enjoys staying up-to-date with the technologies used in the present.
@@ -27,8 +27,8 @@
 <hr>
 
 ### 🧑🏽‍💻 About Me:
-- 🌱 I’m currently learning Node.js
-- 💬 Ask me about React, JavaScript, POO, Webpack, HTML, CSS, and more.
+- 🌱 I’m currently learning Express
+- 💬 Ask me about React, JavaScript, NodeJS, PostgreSQL, MongoDB, POO, Webpack, HTML, CSS, and more.
 - 📫 How to reach me: wilaleva2019@gmail.com
 
 <hr>
