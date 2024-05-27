@@ -37,11 +37,13 @@
   <h3>🛠️ Languages and Tools</h3>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML5" width="80px">
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="CSS3" width="80px">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" alt="BOOTSTRAP" width="80px">
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JS" width="80px">
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="REACT" width="80px">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="REACT" width="80px">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" alt="NODEJS" width="80px">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" alt="EXPRESS" width="80px">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" alt="NODEJS" width="80px">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" alt="EXPRESS" width="80px">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" alt="POSTGRESQL" width="80px">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MONGODB" width="80px">
   <img src="https://github.com/devicons/devicon/blob/master/icons/less/less-plain-wordmark.svg" alt="LESS" width="80px">
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="GIT" width="80px">
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" alt="GITHUB" width="80px">
